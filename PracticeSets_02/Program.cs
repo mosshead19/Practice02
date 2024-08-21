@@ -11,7 +11,7 @@ namespace PracticeSets_02
         static void Main(string[] args)
         {
             /*
-             Write a program that prints all the even numbers from 1 to 20 using a for loop.
+             Write a program that prints all the EVEN numbers from 1 to 20 using a for loop.
              */
             for (int i =1; i<=20;i++)
             {
