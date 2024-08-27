@@ -7,3 +7,4 @@
 ## Authors
 -Even = Dianara Kristy D. Garciano
 -Odd = Mark Jayson Galarpe
+-PS02_03,..05,..07 = Dian
