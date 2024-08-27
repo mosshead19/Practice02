@@ -5,6 +5,8 @@
 - Write a program that prints all the odd numbers from 1 to 20 using a for loop.
 
 ## Authors
--Even = Dianara Kristy D. Garciano
--Odd = Mark Jayson Galarpe
--PS02_03,..05,..07 = Dian
+
+### Even = Dianara Kristy D. Garciano
+
+### Odd = Mark Jayson Galarpe
+### -PS02_03,..05,..07 = Dian
