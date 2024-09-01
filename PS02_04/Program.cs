@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace PS02_04
 {
@@ -21,6 +17,7 @@ namespace PS02_04
                 Console.WriteLine("Not a palindrome");
             }
         }
+
         static bool IfPalindrome(string input)
         {
             string lowercase = input.ToLower();
@@ -28,7 +25,7 @@ namespace PS02_04
             string backwards = "";
             for (int i = lengthInput - 1; i >= 0; i--)
             {
-                backwards += input[i];
+                backwards += lowercase[i]; 
             }
             return backwards == lowercase;
         }
